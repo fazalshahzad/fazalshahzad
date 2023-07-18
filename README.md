@@ -1,47 +1,41 @@
-### Hi there, My name is Muhammad Abdul Rehman aka fazi👋 
-### 🧑🏼‍🏭 I am a Developer and Programming Instructor
+Hi there, My name is Muhammad Fazal Shahzad👋  I am a Developer and Software expert
 ## How To Reach Me?
-[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulrehman.info/)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-304882148/)
-[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/%2B923234101934)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fazi1live/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazal-shahzad-517414236/)
+[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/%2B923030679449)
 ---
 
 ### About Me!<br>
 ⭐⭐⭐⭐⭐ Stars Feedbacks Track Record<br>
-🖥️ Overall 6+ Years of Experience<br>
+🖥️ Overall 1+ Years of Experience<br>
 🤝 Long term relationship with client<br>
 ⏰ offered timely managed qualitative projects that went through a comprehensive workflow designed<br>
 🌟 Investigation and clarification of requirements<br>
 💫💫 Development and Deployment , Quality Assurance review, Code review and Testing<br>
 
-I'm a full-stack developer 👨‍💻 having 6+ years of experience in problem-solving, analysing, and visualising the requirements and programming skills to collectively build applications that helped people to ease and automate their business needs.
+I'm a full-stack developer 👨‍💻 having 1+ years of experience in problem-solving, analysing, and visualising the requirements and programming skills to collectively build applications that helped people to ease and automate their business needs.
 
 ✨✨✨ 𝗦𝘆𝗻𝗼𝗽𝘀𝗶𝘀 𝗼𝗳 𝗺𝘆 𝘄𝗼𝗿𝗸 ✨✨✨
 
-𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: MEAN (Angular2+, ExpressJs, MongoDB, NodeJs) 🟊 MSAN (Angular2+, NestJs, MongoDB, NodeJs)
+𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: MEAN (Angular2+, ExpressJs, MongoDB, NodeJs) 🟊 MEAN (React, ExpressJs, MongoDB, NodeJs)
 
 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: JavaScript and TypeScript
 
 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: NodeJs, ExpressJs, NestJs, Mongoose ODM, Web sockets (Socket.io), JWT and Paseto Authentication, OAuth Autentication
 
-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Angular2+
+𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Angular2+, ReactJs
 
-𝗔𝗣𝗜 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲: RESTful and GraphQLUI and Libraries: Bootstrap5, CSS3, HTML5, Syncfusion ejs2, Material UI, Mobile APP UI Designing, Responsive designs and layouts
+𝗔𝗣𝗜 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲: RESTful and GraphQLUI and Libraries: Bootstrap5, CSS3, HTML5, Material UI, Mobile APP UI Designing, Responsive designs and layouts
 
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MongoDB, PostgreSQL, MySQL, Mongo Atlas
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MongoDB, Mongo Atlas
 
 𝗖𝗹𝗼𝘂𝗱 𝗮𝗻𝗱 𝗛𝗼𝘀𝘁𝗶𝗻𝗴: Google, AWS, Azure, DigitalOcean, Heroku, Vercel, Netlify, GitHub pages
 
-𝗗𝗲𝘃𝗢𝗽𝘀: Ansible, Continuous Delivery, and Configuration Management, Docker, Kubernetes, Terraform for AWS Cloud Automation, CI/CD, Branch and source management on GitHub
-
 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: GitRepository and Hosting: Github, Microsoft Azure
 
-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁: Ubuntu 22.0.4 Lts, VsCOde, Angular CLI, NPM, Postman for API Testing, NodeJs, Swagger
-
+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁: Ubuntu 22.0.4 Lts, VsCOde, Angular CLI, NPM, Postman for API Testing, NodeJs
 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀: Jira, Google Sheets, Trello, Microsoft Teams, Slack
 
-𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗴𝗮𝘁𝗲𝘄𝗮𝘆𝘀 𝗮𝗻𝗱 𝘁𝗵𝗶𝗿𝗱-𝗽𝗮𝗿𝘁𝘆 𝗹𝗶𝗯𝗿𝗮𝗿𝘆 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Paypal, Stripe, Coinbase, Personal Bank APi's, Email services integration, Google maps, USPS or any logistics services
+𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗴𝗮𝘁𝗲𝘄𝗮𝘆𝘀 𝗮𝗻𝗱 𝘁𝗵𝗶𝗿𝗱-𝗽𝗮𝗿𝘁𝘆 𝗹𝗶𝗯𝗿𝗮𝗿𝘆 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Paypal, Stripe,Personal Bank APi's, Email services integration, Google maps, USPS or any logistics services
 
 𝗢𝘁𝗵𝗲𝗿 𝗦𝗸𝗶𝗹𝗹𝘀: Time Management, Problem Solver, Analytical Thinker, Solutions to User Requirements, Environment Setup for Projects.<br>
 <br>
@@ -65,7 +59,7 @@ I'm a full-stack developer 👨‍💻 having 6+ years of experience in problem-
 𝙄 𝙬𝙤𝙪𝙡𝙙 𝙗𝙚 𝙝𝙖𝙥𝙥𝙮 𝙩𝙤 𝙝𝙚𝙖𝙧 𝙛𝙧𝙤𝙢 𝙮𝙤𝙪!
 
 𝐁𝐞𝐬𝐭,
-𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗔𝗯𝗱𝘂𝗹 𝗥𝗲𝗵𝗺𝗮𝗻
+𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 Fazal Shahzad
 
 ### Languages and Tools:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
