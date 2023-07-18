@@ -4,7 +4,7 @@ Hi there, My name is Muhammad Fazal Shahzad👋  I am a Developer and Software e
 [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/%2B923030679449)
 ---
 
-### About Me!<br>
+### About Me!   <img data-target="animated-image.replacedImage" alt="coding" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="display: block; opacity: 1;">
 ⭐⭐⭐⭐⭐ Stars Feedbacks Track Record<br>
 🖥️ Overall 1+ Years of Experience<br>
 🤝 Long term relationship with client<br>
@@ -83,13 +83,3 @@ I'm a full-stack developer 👨‍💻 having 1+ years of experience in problem-
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ---
-<br><br><br>
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Stats</h2>
-
-
-
-![Fazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazi1live&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazi1live&theme=radical)
-</p>
